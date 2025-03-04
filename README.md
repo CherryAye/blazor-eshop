@@ -7,8 +7,6 @@ Steps to Run the App
 2.	On the solution properties, update starup projects for both Eshop.Api and Eshop.Web to work as Multiple startup projects. Eshop.Api is mock up API to seed and retreive prodcts data.
 ![Uploading image.png…]()
 
-
-
 4.	Run the app.
 (If necessary, update API BaseURLinside appsettings.json file from Eshop.Web Application, under www root folder. And update your Eshop.Web app URL into CorsOriginURL property inside appsettings.json file from Eshop.Api.)
 ![Uploading image.png…]()
